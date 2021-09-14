@@ -1,0 +1,2 @@
+# DATASUS
+Neste projeto foram utilizadas diversas técnicas da ciência de dados - como Apache Spark - para avaliação de dados do DATASUS - Quimiterapia. A principal pergunta a ser respondida com o projeto foi: A pandemia da Covid-19 impactou de alguma maneira nos valores APAC pagos ou impactou o número de atendimentos aos pacientes oncológicos? Essa é uma discussão importante e muitos sugerem que os diagnósticos e atendimentos oncológicos foram postergados devido a pandemia. Utilizamos os dados para levantar insights sobre esses temas.
